@@ -1,0 +1,57 @@
+# Welcome to Python Course!
+
+# Programing With Python 3
+## Introduction
+ ### Study Plan
+ ### Introduction and How Python works
+ - [ ] - 01 - Important Discussion about Python 
+ - [ ] - 02 - Why do I learn Python and what do I need
+ - [ ] - 03 - Syntax and Your First App
+ - [ ] - 04 - Comments and best practices
+ - [ ] - 05 - What are datatypes and how to deal with them
+ - [ ] - 06 - Variables
+ - [ ] - 07 - Escape Sequence Character 
+ - [ ] - 08 - How to concatenate characters and trainings 
+ - [ ] - 09- Assignments Session-1 
+ ### Datatypes
+- [ ] - 01 - String
+- [ ] - 02 - How to slice and index Strings
+- [ ] - 03 - String Methods 
+- [ ] - 04 - String formatting [Old Way]
+- [ ] - 05 - String formatting [New Way]
+- [ ] - 06 - Number
+- [ ] - 07 - Arithmetic Operators 
+- [ ] - 08 - List
+- [ ] - 09- List Methods
+- [ ] - 10 - Tuple
+- [ ] - 11 - Tuple Methods
+- [ ] - 12 - Set
+- [ ] - 13 - Set Methods
+- [ ] - 14 - Dictionary
+- [ ] - 15 - Dictionary Methods
+- [ ] - 16 - Boolean
+- [ ] - 17 - Boolean Operators
+- [ ] - 18 - Assignment Operators
+- [ ] - 19 - Comparison Operators
+- [ ] - 20 - Type Casting [Type Conversion]
+- [ ] - 21 - User Input
+- [ ] - 22 - Task-1 [Email Slice]
+- [ ] - 23 - Task-2 [How to get Your age with full details] - **Version-1**
+  ### Making The Decisions
+- [ ] - 01- If, Elif, Else
+- [ ] - 02- Nested If [Some Trainings]
+- [ ] - 02- Ternary Conditional Operator
+- [ ] - 03 - Task-3 [How to get Your age with full details] - **Version-2**
+- [ ] - 02- Membership Control [Training]
+  ### Looping
+ - [ ] - 01- While and Else
+- [ ] - 02- While Training
+- [ ] - 03- While Trainings Bookmark Manager
+- [ ] - 04 - While Trainings Password Guess
+- [ ] - 05- Membership Control [Training]
+- [ ] - 06- Membership Control [Training]
+- [ ] - 07- Membership Control [Training]
+- [ ] - 08- Membership Control [Training]
+- [ ] - 09- Membership Control [Training]
+- [ ] - 10- Membership Control [Training]
+- [ ] - 11- Membership Control [Training]
