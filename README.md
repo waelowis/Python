@@ -4,7 +4,7 @@
 ## Introduction
 
  ### Study Plan
- >  This course is designed to complete in four months depends on the student Absorption.
+ >  This course is designed to complete in four months depends on the student Mental comprehension.
  >  The meeting is held twice a week for 60 minutes at every session.
  >  The student is going to take assignments at every session to correct its logic at the next session.
  
