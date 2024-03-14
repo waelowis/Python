@@ -2,12 +2,12 @@
 
 # Programing With Python 3
 ## Introduction
-لإاهسي
+
  ### Study Plan
  >  This course is designed to complete in four months depends on thew student Absorption.
  >  Is meting is held twice/week for 60minutes at every session.
  >  The student is going to take assignments at every session to correct its logic at the next session.
- لإاث ةثثفهىس
+ 
  ### Introduction and How Python works
    - [ ] - 01 - Important Discussion about Python 
    - [ ] - 02 - Why do I learn Python and what do I need
